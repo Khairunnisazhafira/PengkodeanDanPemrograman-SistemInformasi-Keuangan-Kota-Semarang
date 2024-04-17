@@ -1,5 +1,5 @@
 # Sistem Informasi Keuangan Kota Semarang #
-# DESKRIPSI #
+## DESKRIPSI 
 Sistem Informasi Keuangan Kota Semarang adalah sebuah sistem yang dirancang untuk mengelola dan memantau segala aspek keuangan yang terkait dengan pemerintahan Kota Semarang. Berikut adalah beberapa poin yang mungkin dicakup dalam sistem informasi keuangan tersebut: Pengelolaan Anggaran, Penerimaan dan Pengeluaran, Manajemen Utang Piutang, dll.
 # SUMBER #
 https://github.com/Miftakul21/Sistem-Informasi-Keuangan-Desa
