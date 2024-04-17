@@ -1,15 +1,3 @@
-# Sistem-informasi-keuangan
-
-## Demo Beranda :
-
-<!-- ![demo](https://user-images.githubusercontent.com/45083824/69827196-e52b8000-1248-11ea-978d-7cd8b2b4a72a.png) -->
-
-## Demo Pengeluaran :
-
-<!-- ![pengeluaran](https://user-images.githubusercontent.com/45083824/69827194-e52b8000-1248-11ea-94d6-a5a1408229e8.png) -->
-
-## Export excel :
-
-<!-- ![export](https://user-images.githubusercontent.com/45083824/69827193-e492e980-1248-11ea-9f44-9d561db4bb60.png) -->
-
-Sistem informasi keuangan
+# Sistem Informasi Keuangan Kota Semarang
+# ERD
+![WhatsApp Image 2024-04-17 at 02 47 27](https://github.com/Khairunnisazhafira/SistemInformasi-Keuangan-Kota-Semarang/assets/152596345/f924f638-f89a-4b5d-96c0-b3974249b63f)
